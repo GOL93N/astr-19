@@ -16,9 +16,10 @@ Created on Mon Apr  6 16:24:29 2026
 num1 = 5.32
 num2 = 7.67
 int1 = 9
+int2 = 3
 
 ques1 = num1 + num2
-ques2 = num1 - num2
+ques2 = int1 - int2
 ques3 = num1 * int1
 
 print(ques1)
